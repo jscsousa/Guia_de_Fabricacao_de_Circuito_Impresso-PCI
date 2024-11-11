@@ -1,2 +1,2 @@
-# Guia
+# Guia de utilização da miniFresa
  
